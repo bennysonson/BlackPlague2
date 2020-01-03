@@ -1,0 +1,4 @@
+switch(mode){
+	case ATTACKMODE.CHOLERIC: mode = ATTACKMODE.MELANCHOLIC; break;
+	case ATTACKMODE.MELANCHOLIC: mode = ATTACKMODE.CHOLERIC; break;
+}
